@@ -1,6 +1,8 @@
+Important Notice: This is a demo application intended solely for demonstration and testing purposes. It is not designed or secured for use in production environments. Please avoid using it to manage real data or in any live scenarios.
+
 
 ## Description
-This project demonstrates the implementation of ID.me's Liveness Check to verify user liveness when attempting to edit sensitive Personally Identifiable Information (PII).
+This demo app demonstrates the implementation of ID.me's Liveness Check to verify user liveness when attempting to edit sensitive Personally Identifiable Information (PII).
 
 Liveness checks offer a strong defense against fraud, as bad actors are typically unwilling or unable to pass this verification step. The check requires users to show their fully uncovered face, ensuring they are not using masks or static images. If a user fails this step, they will be unable to proceed with the changes.
 
